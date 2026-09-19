@@ -11,7 +11,7 @@
 
 - **Name:** Kalsonn
 - **Student ID:** s1121405
-- **GitHub Username:** ykjiang05-ai
+- **GitHub Username:** ykjiann
 
 ## Repository Description
 
@@ -25,6 +25,6 @@ Through this course, I will learn and practice fundamental data structures and a
 
 ## Useful Links
 
-- [My GitHub Profile](https://github.com/ykjiang05-ai)
-- [Data Structures Course Repository](https://github.com/ykjiang05-ai/11501_CS203A)
-- [My Personal Website](https://ykjiang05-ai.github.io/)
+- [My GitHub Profile](https://github.com/ykjiann)
+- [Data Structures Course Repository](https://github.com/ykjiann/11501_CS203A)
+- [My Personal Website](https://ykjiann.github.io/)
